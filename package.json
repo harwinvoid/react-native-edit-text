@@ -6,5 +6,9 @@
     "TextInput",
     "EditText"
   ],
-  "main": "/lib/index.js"
+  "main": "/lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harwinvoid/react-native-edit-text.git"
+  }
 }
