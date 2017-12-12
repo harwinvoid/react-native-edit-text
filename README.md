@@ -4,7 +4,7 @@ React Native 默认的 `textInput` 组件默认是没有边框的，使用的时
 
 ## usuage
 
-```
+```javascript
 
   <EditText
     inputStyle={{}}
